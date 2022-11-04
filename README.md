@@ -13,5 +13,5 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Repositório_Dhouglas_Ornilo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhouglasornilo/Projeto-League-of-Legends-Scratch-Version.git)
+[![GitHub](https://img.shields.io/badge/Repositório_Dhouglas_Ornilo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhouglasornilo/Projeto-League-Of-Legends-Scratch-Version-Dhouglas-Ornilo)
 
